@@ -1,0 +1,2255 @@
+@media screen and (max-width: 1650px) {
+    .left-section{
+        height: 81.5vh;
+    }
+
+    .nav-right{
+        margin-left: 38vw;
+    }
+
+   
+   
+
+}
+
+@media screen and (max-width: 1500px) {
+    .left-section{
+        height: 74vh;
+    }
+
+    .nav-right{
+        margin-left: 35vw;
+    }
+
+    .gray-desc,.black-desc{
+        font-size: 2.1rem;
+    }
+
+    .left-section-heading{
+        font-size: 3.3rem;
+    }
+
+    .about{
+        height: 80vh;
+    }
+
+    .span{
+        padding-top: 2vh;
+    }
+
+    .about-right-section{
+        padding-top: 15px;
+    }
+
+
+
+
+    .service-block-1{
+        width: 18vw;
+        height: 57vh;
+    }
+
+    .service-learn-more{
+        margin-top: 16vh;
+    }
+
+    .footer-links{
+        padding-left: 100px;
+    }
+   
+
+}
+
+@media screen and (max-width: 1400px) {
+    .left-section{
+        height: 71vh;
+    }
+
+    .nav-right{
+        margin-left: 32vw;
+    }
+
+    
+    .gray-desc,.black-desc{
+        font-size: 2rem;
+    }
+
+    .left-section-heading{
+        font-size: 3rem;
+    }
+
+
+
+
+    .about{
+        height: 70vh;
+    }
+
+    .span{
+        padding-top: 0vh;
+    }
+
+    .about-right-section{
+        padding-top: 5px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .services-desc-with-imgs img{
+
+        width: 330px;
+        height: 430px;
+
+    }
+
+
+    .service-block-1{
+        height: 53vh;
+    }
+
+    .service-learn-more {
+        margin-top: 13vh;
+    }
+
+    .services-heading {
+        font-size: 3.1rem;
+    }
+   
+
+   
+
+}
+
+
+@media screen and (max-width: 1350px) {
+
+    .section{
+        height: 90vh;
+    }
+
+
+
+
+    .left-section{
+        height: 68vh;
+        /* padding-top: 30px; */
+    }
+
+    .span{
+        padding-top: 0vh;
+    }
+
+    .left-section-heading{
+        font-size: 3.1rem;
+    }
+
+    .btn{
+        padding: 14px;
+        width: 9vw;
+
+    }
+
+    .btn1{
+        padding: 20px;
+        width: 12vw;
+    }
+
+    .btn2{
+        padding: 20px;
+        width: 12vw;
+    }
+
+    .about-left-section{
+        width: 52vw;
+    }
+
+    .about-right-section{
+        width: 48vw;
+    }
+
+    .about-numbers{
+        width: 55vw;
+    }
+    .services{
+        height: 180vh;
+    }
+
+    .service-btn {
+        margin-left: 31vw;
+        width: 11vw;
+    }
+
+
+    .services-desc-with-imgs img{
+
+        width: 300px;
+        height: 400px;
+
+    }
+
+
+    .service-block-1{
+        height: 49vh;
+        width: 20vw;
+    }
+
+    .service-learn-more {
+        margin-top: 8vh;
+    }
+
+    .faq-heading{
+        font-size: 3.2rem;
+    }
+
+    .benefits-btn{
+        width: 12vw;
+    }
+
+    .footer-links{
+        padding-left: 90px;
+    }
+   
+
+}
+
+
+@media screen and (max-width: 1300px) {
+
+    .nav-right{
+        margin-left: 28vw;
+    }
+   
+
+    .left-section{
+        height: 64vh;
+        /* padding-top: 30px; */
+    }
+
+    .about{
+        height: 78vh;
+    }
+
+    .span{
+        /* padding-top: 10vh; */
+    }
+
+    .left-section-heading{
+        font-size: 3.1rem;
+    }
+
+    .btn{
+        padding: 14px;
+        width: 11vw;
+
+    }
+
+    .btn1{
+        padding: 20px;
+        width: 12vw;
+    }
+
+    .btn2{
+        padding: 20px;
+        width: 12vw;
+    }
+
+
+    .services-desc-with-imgs img{
+
+        width: 270px;
+        height: 370px;
+
+    }
+
+    .service-number{
+        font-size: 2.7rem;
+    }
+
+
+    .service-block-1{
+        height: 46vh;
+        width: 21vw;
+    }
+
+    .service-learn-more {
+        margin-top: 3vh;
+    }
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media screen and (max-width: 1250px) {
+
+    html{
+
+        margin: 0;
+        padding: 0;
+    }
+
+   
+
+    .nav-right{
+        margin-left: 25vw;
+    }
+   
+    .section{
+        height: 100vh;
+    }
+
+    .left-section{
+        height: 77vh;
+        width: 55vw;
+        /* padding-top: 30px; */
+    }
+
+
+    .left-section-heading{
+        font-size: 3.1rem;
+    }
+
+    .btn{
+        padding: 14px;
+        width: 11vw;
+
+    }
+
+    .btn1{
+        padding: 20px;
+        width: 12vw;
+    }
+
+    .btn2{
+        padding: 20px;
+        width: 12vw;
+    }
+
+    .about{
+        height: 99vh;
+    }
+
+    .service-block-1{
+        height: 60vh;
+    }
+
+    .services {
+        height: 230vh;
+    }
+
+    .faq{
+        height: 150vh;
+    }
+
+
+    .TESTIMONIAL{
+        height: 80vh;
+    }
+
+    .footer{
+        height: 160vh;
+    }
+
+    .footer-links{
+        padding-left: 80px;
+    }
+
+
+
+
+}
+
+@media screen and (max-width: 1200px) {
+
+    html{
+        width: 100vw!important;
+        margin: 0!important;
+
+    }
+
+
+
+
+
+
+
+
+
+    /* css for hamburger */
+
+    .menu-toggle {
+        display: flex;
+    }
+
+    .nav-right {
+        /* display: block; */
+        flex-direction: column;
+        position: absolute;
+        top: 70px;
+        right: 20px;
+        color: white;
+        background-color: #333;
+        padding: 15px;
+        border-radius: 5px;
+    }
+
+    
+
+    .nav-right.show {
+        display: flex;
+    }
+
+    .nav-right ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .nav-right ul a {
+        color: white;
+        text-align: center;
+    }
+
+    .nav-right ul li a {
+    color: white; /* Keeps text color white */
+    text-align: center;
+    text-decoration: none; /* Removes underline */
+    transition: color 0.3s ease; /* Optional: smooth color transition on hover */
+    }
+
+    .nav-right ul li a:hover {
+        color: white; /* Keeps the text white on hover */
+    }
+    
+    .nav-right ul li a:active {
+        color: white; /* Ensures the text stays white when clicked */
+    }
+    
+
+    .nav-right .btn {
+        margin-top: 2vh;
+        align-self: center;
+        font-size: 1.1rem;
+        font-weight: bold;
+    }
+
+    /* Add spacing between hamburger bars */
+    .menu-toggle {
+        gap: 5px; /* Spacing between bars */
+
+        margin-left: 65%;
+    }
+
+    .menu-toggle span {
+        margin: 0px 0; /* Margin between each bar */
+    }
+
+
+
+    /* .nav-right {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 70px;
+        right: 20px;
+        background-color: #333;
+        padding: 15px;
+        border-radius: 5px;
+    } */
+
+    /* .nav-right.show {
+        display: flex;
+    }
+
+    .nav-right ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .nav-right ul a {
+        text-align: center;
+    }
+
+    .nav-right .btn {
+        align-self: center;
+    } */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .nav-right{
+        display: none;
+        
+    }
+    .section{
+        flex-direction: column;
+        height: 300vh;
+    }
+
+
+    .left-section{
+        width: 91%;
+        height: 30vw;
+        /* margin: 50px; */
+        margin-left: 0!important;
+        margin-right: 0!important;
+    }
+
+    .right-section{
+        width: 100%;
+    }
+
+    .cargo{
+        width: 98%;
+    }
+
+    .right-section-box{
+        width: 100%;
+    }
+
+    .customer,.percent,.exp-num{
+        font-size: 3.5rem;
+    }
+
+    .shipped{
+        width: 50%;
+    }
+
+    .companies{
+        width: 50%;
+    }
+
+    .services-span{
+        padding-left: 70px;
+    }
+
+    .services-heading{
+        padding-left: 70px;
+    }
+
+    .service-desc{
+        padding-left: 70px;
+    }
+
+    .service-btn{
+        margin-left: 37vw;
+    }
+
+    .services-desc-with-imgs{
+        margin-left: 5vw;
+    }
+
+    .email-container button {
+        width: 40%;
+    }
+
+    .footer-links{
+        padding-left: 70px;
+    }
+
+
+}
+
+
+@media screen and (max-width: 1140px) {
+
+
+    .section{
+        height: 280vh;
+    }
+
+    .about {
+        height: 108vh;
+    }
+
+
+    .service-btn {
+        margin-left: 35vw;
+    }
+
+    .services-desc-with-imgs img {
+        width: 250px;
+        height: 350px;
+    }
+
+    .service-block-1 {
+        height: 57vh;
+        width: 21.5vw;
+    }
+
+    .service-number{
+        font-size: 2.5rem;
+        padding: 20px;
+        
+    }
+
+    .img-service-name{
+        padding-left: 20px;
+    }
+
+    .img-service-desc{
+        padding-left: 20px;
+    }
+
+    .service-learn-more{
+        padding-left: 20px;
+    }
+
+   
+
+
+}
+
+
+@media screen and (max-width: 1100px) {
+
+
+    .menu-toggle {
+        margin-left: 62%;
+    }
+
+    .nav-right{
+        width: 13vw;
+    }
+
+    .nav-right .btn {
+        margin-top: 2vh;
+        align-self: center;
+        font-size: 1.1rem;
+        font-weight: bold;
+        width: 12.5vw;
+    }
+
+
+    .left-section{
+        height: 55vh;
+        width: fit-content;
+    }
+
+    .btn1{
+        width: 14vw;
+    }
+
+    .about{
+        height: 130vh;
+        flex-direction: column;
+        margin: 0!important;
+
+    }
+
+    .about-left-section{
+        width: 100%;
+        margin: -25px;
+    }
+
+    .about-right-section{
+        width: 100%;
+        margin: 0;
+        margin-top: 4vh;
+    }
+
+    .customers{
+        /* width: 25vw; */
+        margin-right: 5vw;
+    }
+
+    .happy{
+        /* width: 25vw; */
+        /* margin-right: 5vw; */
+    }
+
+    .experience,.exp{
+        width: 25vw;
+    }
+
+    
+
+    .services{
+        height: max-content;
+        /* margin-bottom: 5vh; */
+        padding-bottom: 5vh;
+    }
+
+    .services-heading{
+        width: 55vw;
+    }
+    
+
+    .service-btn{
+        width: 13vw;
+    }
+
+
+
+    .services-desc-with-img{
+        display: block;
+    }
+
+    .services-desc-with-imgs img {
+        width: 490px;
+        height: 450px;
+        object-fit: cover;
+        
+    }
+
+    .service-block-1{
+        height: 73vh;
+        width: 45.5vw;
+    }
+
+    .img-service-desc{
+        width: 90%;
+    }
+    .service-learn-more{
+        margin-top: 22vh;
+        
+    }
+
+    .lftm{
+        margin-left: 52px!important;
+    }
+
+    .services-desc-with-imgs {
+        margin-left: 5vw;
+    }
+
+    /* Some styles for making responsive may be can be do better but i have what i know */
+
+    .rlm1{
+        margin-left: 0vw!important;
+    }
+
+    .rlm2{
+        margin-left: 3vw!important;
+    }
+
+
+    .achievements{
+        height: 160vh;
+        flex-direction: column;
+        padding-top: 0vh;
+    }
+
+    .achieve-left-section{
+        height: 30vh;
+        padding: 80px;
+    }
+
+    .achievement-right-section{
+        height: 100vh;
+        padding-top: 6vh;
+        margin-left: 40px;
+    }
+
+    .achieve-heading{
+        width: 60vw;
+    }
+
+    .achieve-desc{
+        width: 44vw;
+    }
+
+    .faq{
+        flex-direction: column;
+        height: 240vh;
+    }
+
+    .faq-container{
+        max-width: 800px;
+    }
+
+    .faq-left-section{
+        padding: 70px;
+        /* width: 75vw; */
+    
+    }
+
+    .faq-heading{
+        width: 60vw;
+    }
+
+    .faq-desc{
+        width: 50vw;
+    }
+
+    .faq-container{
+        margin-top: 5vh;
+        margin-left: 60px;
+    }
+
+
+    .TESTIMONIAL{
+        height: 125vh;
+        flex-direction: column;
+    }
+
+    .test-left{
+        /* width: 100vw; */
+    }
+
+    .test-heading{
+        font-size: 3rem;
+    }
+
+    .test-right{
+        /* width: 100vw; */
+        margin-left: 0!important;
+        margin-top: 4vh;
+    }
+
+    .testimonials1{
+        width: 60vw;
+    }
+
+    .testimonials2{
+        width: 60vw;
+    }
+
+    .footer{
+        height: 160vh;
+    }
+
+    
+
+
+
+}
+
+
+@media screen and (max-width: 1050px) {
+
+    .section {
+        height: 270vh;
+    }
+
+    .about{
+        height: 140vh;
+    }
+
+    .services{
+        height: max-content;
+        /* margin-bottom: 5vh; */
+        padding-bottom: 5vh;
+    }
+
+    .services-heading{
+        width: 55vw;
+        font-size: 3rem;
+    }
+
+
+    .service-btn{
+        width: 13vw;
+    }
+
+    .services-desc-with-img{
+        display: block;
+    }
+
+    .services-desc-with-imgs img {
+        width: 440px;
+        height: 410px;
+        object-fit: cover;  
+    }
+
+    .service-block-1{
+        height: 67vh;
+        width: 43.5vw;
+    }
+
+    .img-service-desc{
+        width: 90%;
+    }
+    .service-learn-more{
+        margin-top: 19vh;
+        
+    }
+
+    .footer-links{
+        padding-left: 65px;
+    }
+
+
+
+}
+
+
+@media screen and (max-width: 1000px) {
+
+
+    .menu-toggle {
+        margin-left: 60%;
+    }
+
+    .nav-right{
+        width: 15vw;
+    }
+
+    .nav-right .btn {
+        margin-top: 2vh;
+        align-self: center;
+        font-size: 1.1rem;
+        font-weight: bold;
+        width: 13vw;
+    }
+
+
+
+    
+
+
+    .section{
+        height: 265vh;
+    }
+
+
+    .about{
+        height: 150vh;
+    }
+
+    .benefits-btn{
+        width: 14vw;
+    }
+
+    .email-container button {
+        width: 50%;
+    }
+
+    .footer-links ul li {
+        font-size: 1rem;
+    }
+
+}
+
+
+
+
+@media screen and (max-width: 950px) {
+
+
+    .menu-toggle {
+        margin-left: 57%;
+    }
+
+    .nav-right{
+        width: 15vw;
+    }
+
+    .nav-right .btn {
+        margin-top: 2vh;
+        align-self: center;
+        font-size: 1.1rem;
+        font-weight: bold;
+        width: 14.5vw;
+    }
+
+
+
+
+
+    .section {
+        height: 250vh;
+    }
+
+
+    .btn{
+
+        width: 16vw;
+    }
+
+    
+    .services-heading{
+        width: 55vw;
+        font-size: 2.4rem;
+    }
+
+
+    .service-btn{
+        width: 13vw;
+    }
+
+    .services-desc-with-img{
+        display: block;
+    }
+
+    .services-desc-with-imgs img {
+        width: 340px;
+        height: 310px;
+        object-fit: cover;  
+    }
+
+
+    .service-btn{
+        margin-left: 15vw;
+        width: 17vw;
+    }
+
+    .service-block-1{
+        height: 50vh;
+        width: 35.5vw;
+    }
+
+    .img-service-desc{
+        width: 90%;
+    }
+    .service-learn-more{
+        margin-top: 5vh;
+        
+    }
+
+    .footer{
+        height: 280vh;
+
+
+    }
+
+    .footer-content{
+        height: 110vh;
+        justify-content: space-between;
+        max-width: 60vw;
+
+    }
+
+    .footer-content-first-half{
+        display: block;
+    }
+
+    .footer-content-second-half{
+       
+        display: block;
+    }
+
+    .footer-span{
+        margin-top: 7vh;
+    }
+
+    .footer-content2{
+        display: block;
+        
+    }
+
+    .footer-content2-left{
+        margin-top: 2vh;
+    }
+
+    .footer-content2-right{
+        margin-top: 11vh;
+    }
+
+
+    .footer-links ul li {
+        font-size: 1rem;
+    }
+
+}
+
+
+@media screen and (max-width: 850px) {
+
+
+    
+    .menu-toggle {
+        margin-left: 54%;
+    }
+
+    .nav-right{
+        width: 15vw;
+    }
+
+    .nav-right .btn {
+        margin-top: 2vh;
+        align-self: center;
+        font-size: 1.1rem;
+        font-weight: bold;
+        width: 15.3vw;
+    }
+
+
+
+    .section{
+        height: 230vh;
+    }
+
+
+    .left-section{
+        height: 59vh;
+    }
+
+    .faq-heading{
+        width: 70vw;
+    }
+
+    .faq-desc{
+        width: 6 0vw;
+    }
+
+
+    .services-desc-with-imgs img {
+        width: 340px;
+        height: 325px;
+        object-fit: cover;  
+    }
+
+
+   
+    .service-block-1 {
+        height: 52.5vh;
+        width: 40vw;
+    }
+
+    .benefits-btn{
+        width: 16vw;
+    }
+
+
+
+    .btn{
+        width: 20vw;
+    }
+}
+
+
+
+
+@media screen and (max-width: 800px) {
+
+
+    .left-section{
+        height: 62vh;
+    }
+
+     
+    .menu-toggle {
+        margin-left: 51%;
+    }
+
+    .nav-right{
+        width: 16vw;
+    }
+
+    .nav-right .btn {
+        margin-top: 2vh;
+        align-self: center;
+        font-size: 1.1rem;
+        font-weight: bold;
+        width: 16.4vw;
+    }
+
+
+
+    .about{
+
+        height: 160vh;
+
+    }
+
+    .customer,.percent,.exp-num{
+        font-size: 3rem;
+    }
+
+    .achieve-heading{
+        /* width: 60vw; */
+        font-size: 3rem;
+    }
+
+    .faq{
+        height: 250vh;
+    }
+
+
+
+}
+
+
+
+
+@media screen and (max-width: 750px) {
+
+
+      
+    .menu-toggle {
+        margin-left: 48%;
+    }
+
+    .nav-right{
+        width: 16.9vw;
+    }
+
+    .nav-right .btn {
+        margin-top: 2vh;
+        align-self: center;
+        font-size: 1.1rem;
+        font-weight: bold;
+        width: 17.4vw;
+    }
+
+
+    .about{
+
+        height: 170vh;
+
+    }
+
+
+
+    .services-desc-with-imgs img {
+        width: 300px;
+        height: 305px;
+        object-fit: cover;  
+    }
+
+
+   
+    .service-block-1 {
+        height: 50vh;
+        width: 40vw;
+    }
+
+    .service-btn{
+        margin-left: 15vw;
+        width: 18vw;
+    }
+
+    .benefits-btn{
+        width: 18vw;
+    }
+
+
+}
+
+
+
+@media screen and (max-width: 700px) {
+
+
+
+       
+    .menu-toggle {
+        margin-left: 45%;
+    }
+
+    .nav-right{
+        width: 19vw;
+    }
+
+    .nav-right .btn {
+        margin-top: 2vh;
+        align-self: center;
+        font-size: 1.1rem;
+        font-weight: bold;
+        width: 19vw;
+    }
+
+
+
+    .section{
+        height: 225vh;
+    }
+
+    .left-section{
+        height: 63vh;
+    }
+
+
+    .customer,.percent,.exp-num{
+        font-size: 2.6rem;
+    }
+
+    
+
+    .services{
+        height: 900vh;
+    }
+
+    .service-btn{
+        width: 21vw;
+    }
+
+    .services-desc-with-imgs{
+        display: block;
+        
+    }
+
+    .services-desc-with-imgs img {
+        width: 500px;
+        height: 700px;
+        object-fit: cover;  
+        margin-left: 5vw;
+    }
+
+
+   
+    .service-block-1 {
+        height: 50vh;
+        /* width: 100%; */
+        width: 72vw;
+        margin-left: 5vw;
+        
+    }
+
+    .service-number{
+        padding: 50px;
+        font-size: 3.5rem;
+    }
+
+    .img-service-name{
+        font-size: 1.6rem;
+        padding-left: 7vw;
+    }
+
+    .img-service-desc{
+        padding-left: 7vw;
+        width: 80%;
+    }
+
+    .service-learn-more{
+        padding-left: 7vw;
+        margin-top: 8vh;
+        font-size: 1.25rem;
+    }
+
+    .resp1-700px{
+        margin-left: 5vw!important;
+    }
+
+
+    .resp2-700px{
+        margin-left: 2.5vw!important;
+    }
+
+    .resp3-700px{
+        margin-left: 5vw!important;
+    }
+    .achievements {
+        height: 170vh;
+    }
+
+    .achieve-left-section {
+        height: 40vh;
+    }
+
+
+    .TESTIMONIAL{
+        height: 135vh;
+    }
+
+    .benefits-content {
+        font-size: 2.4rem;
+    }
+
+    .benefits-btn {
+        width: 20vw;
+    }
+
+
+
+
+
+
+}
+
+@media screen and (max-width: 701px) {
+
+
+    .services-desc-with-imgs img {
+        /* width: 500px; */
+        /* height: 700px; */
+        object-fit: cover;  
+        /* margin-left: 5vw; */
+        width: 100%;
+        height: 100%;
+        /* overflow-x: hidden; */
+        max-width: 85vw;
+    }
+
+    .resp2-700px .service-block-1{
+        max-width: 85vw;
+
+    }
+
+
+
+    .service-block-1 {
+        margin-right: 20vw;
+        width: 90%;
+        height: 70vh;
+    }
+
+    .faq-left-section{
+        width: 50%;
+    }
+    .faq-btns{
+        width: 100%;
+    }
+}
+
+
+
+
+@media screen and (max-width: 660px) {
+
+
+    .menu-toggle {
+        margin-left: 41%;
+    }
+
+    .nav-right{
+        width: 19.9vw;
+    }
+
+    .nav-right .btn {
+        margin-top: 2vh;
+        align-self: center;
+        font-size: 1.1rem;
+        font-weight: bold;
+        width: 20.3vw;
+    }
+
+
+
+    .btn{
+        width: 22vw;
+    }
+
+    .section{
+        height: 215vh;
+    }
+
+    .services{
+        height: 875vh;
+    }
+
+
+    .about{
+
+        height: 195vh;
+
+    }
+
+    .customer,.percent,.exp-num{
+        font-size: 2.2rem;
+    }
+
+
+    .achieve-desc {
+        width: 50vw;
+    }
+    .achieve-heading{
+        font-size: 2.8rem;
+    }
+    .faq{
+        height: 275vh;
+    }
+
+
+    .TESTIMONIAL{
+        padding: 100px;
+    }
+
+    .test-heading,.test-desc{
+        width: 70vw;
+
+    }
+
+    .email-container button {
+        width: 70%;
+    }
+
+
+}
+
+
+@media screen and (max-width: 600px) {
+
+    
+    .menu-toggle {
+        margin-left: 38%;
+    }
+
+    .nav-right{
+        width: 23vw;
+    }
+
+    .nav-right .btn {
+        margin-top: 2vh;
+        align-self: center;
+        font-size: 1.1rem;
+        font-weight: bold;
+        width: 22vw;
+    }
+
+
+
+    .section {
+        height: 215vh;
+    }
+
+    .left-section-heading {
+        font-size: 2.8rem;
+    }
+
+    .btn {
+        width: 24vw;
+    }
+
+    .about {
+        height: 205vh;
+    }
+
+    .experience, .exp {
+        width: 22vw;
+    }
+
+    .services {
+        height: 840vh;
+    }
+
+    .benefits-btn {
+        width: 23vw;
+    }
+
+    .service-btn {
+        width: 22vw;
+    }
+
+    .achieve-heading{
+        font-size: 2.5rem;
+    }
+    
+
+    .faq{
+        height: 285vh;
+    }
+
+
+    .email-container{
+        width: 61vw;
+    }
+
+}
+
+
+@media screen and (max-width: 552px) {
+
+
+    .menu-toggle {
+        margin-left: 32%;
+    }
+
+    .nav-right{
+        width: 25vw;
+    }
+
+    .nav-right .btn {
+        margin-top: 2vh;
+        align-self: center;
+        font-size: 1.1rem;
+        font-weight: bold;
+        width: 24.5vw;
+    }
+
+
+
+
+
+    .section {
+        height: 205vh;
+    }
+
+    .left-section {
+        height: 68vh;
+    }
+
+    .about-left-section{
+        margin: -40px; 
+
+        /* if its works don't touch it  */
+
+
+    }
+
+
+    .about-desc{
+
+        margin: -15px;
+
+    }
+
+    .left-section-heading {
+        font-size: 2.5rem;
+    }
+
+    .btn {
+        width: 27vw;
+    }
+
+    .about {
+        height: 215vh;
+    }
+
+    .experience, .exp {
+        width: 20vw;
+    }
+
+    .services {
+        height: 810vh;
+    }
+
+    .resp4-550px{
+        /* margin-top: 10vh
+        !important; */
+
+        margin-left: 8%!important;
+    }
+
+    .customer, .percent, .exp-num {
+        font-size: 2.5rem;
+    }
+
+    .customers {
+        margin-left: -5vw;
+    }
+
+    .service-btn {
+        width: 25vw;
+    }
+
+    .client{
+        margin-left: -1px;
+    }
+
+    .achievements {
+        height: 185vh;
+    }
+
+    .achieve-left-section {
+        height: 50vh;
+    }
+
+    .achieve-heading {
+        font-size: 2.9rem;
+    }
+
+    .benefits-content {
+        font-size: 1.9rem;
+    }
+
+    .benefits-desc{
+        width: 59%;
+    }
+
+    .benefits-btn{
+        width: 26vw;
+    }
+    .TESTIMONIAL {
+        height: 148vh;
+        padding: 65px;
+    }
+
+
+    .email-container button {
+        width: 90%;
+    }
+
+    .footer-items {
+        font: 0.95em sans-serif;
+    }    
+
+    .footer {
+        height: 290vh;
+    }
+
+
+
+}
+
+
+@media screen and (max-width: 500px) {
+
+
+    .menu-toggle {
+        margin-left: 25.5%;
+    }
+
+    .nav-right{
+        width: 29vw;
+    }
+
+    .nav-right .btn {
+        margin-top: 2vh;
+        align-self: center;
+        font-size: 1.1rem;
+        font-weight: bold;
+        width: 27vw;
+    }
+ 
+
+    .section {
+        height: 195vh;
+    }
+
+    .left-section-heading {
+        font-size: 2.2rem;
+    }
+
+
+
+    .btn {
+        width: 33vw;
+    }
+
+    .number1,.number2{
+        font-size: 2.5rem;
+    }
+
+    .companies-span{
+        font-size: 1.1rem;
+    }
+
+    .about {
+        height: 185vh;
+    }
+
+    .btn3{
+        width: 26vw;
+        font: 1em sans-serif;
+        padding: 15px;
+        margin-bottom: 4vh;
+    }
+
+
+    .gray-desc, .black-desc {
+        font-size: 1.6rem;
+    }
+
+    .services-heading{
+        font-size: 2rem;
+    }
+
+    .service-btn {
+        margin-left: 5vw;
+        width: 28vw;
+        height: 8vh;
+        padding: 0px;
+    }
+
+    .customer, .percent, .exp-num {
+        font-size: 1.9rem;
+    }
+
+    .services {
+        height: 760vh;
+    }
+
+    .service-desc{
+        font-size: 1.05rem;
+    }
+
+    .achieve-heading {
+        font-size: 2.4rem;
+    }
+
+    .faq-heading{
+        font-size: 2.5rem;
+    }
+
+    .faq-title {
+        font: 1.3em sans-serif;
+    }
+
+    .faq-description{
+        font: 1.2em sans-serif;
+        width: 90%;
+    }
+
+    .TESTIMONIAL {
+        height: 150vh;
+    }
+
+    .test-heading{
+        font-size: 2.5rem;
+    }
+
+    .test-second-section {
+        font-size: 1.1rem;
+    }
+
+    .benefits {
+        height: 80vh;
+
+    }
+
+    .benefits-btn {
+        width: 30vw;
+    }
+
+    .email-container {
+        width: 72vw;
+    }
+
+    .footer-items {
+        display: block;
+        /* justify-content: center; */
+        /* align-items: center; */
+        margin-left: 20vw;
+    }
+
+    .footer-content2 {
+        padding: 60px;
+        padding-bottom: 100px;
+    }
+
+    .footer-item-right {
+        display: block;
+    }
+
+}
+
+
+@media screen and (max-width: 455px) {
+
+
+
+    .menu-toggle {
+        margin-left: 22.5%;
+    }
+
+    .nav-left img{
+        width: 90%;
+        margin-left: -30px;
+    }
+
+    .nav-right{
+        width: 32vw;
+    }
+
+    .nav-right .btn{
+        width: 31vw;
+    }
+
+    .left-section-heading {
+        font-size: 2rem;
+        width: 100%;
+    }
+
+    .number1,.number2{
+        font-size: 2.2rem;
+    }
+
+    .btn3{
+        width: 35vw;
+    }
+
+    .companies-span{
+        font-size: 1rem;
+    }
+
+    #about{
+        width: 53vw;
+        height: 190vh;
+        margin: -15px!important;
+    }
+
+    .gray-desc, .black-desc {
+        font-size: 1.4rem;
+    }
+
+    .customer, .percent, .exp-num {
+        font-size: 1.7rem;
+    }
+
+    .happy-customer,.exp,.customer-desc{
+        font-size: 1.1rem;
+    }
+
+    .services{
+        height: 725vh;
+    }
+
+    .achievements {
+        height: 182vh;
+    }
+
+    .achieve-heading {
+        font-size: 2.1rem;
+    }
+
+    .achieve-left-section {
+        height: 52vh;
+
+    }
+
+    .faq-heading{
+        font-size: 2.2rem;
+    }
+
+    .test-name{
+        font-size: 1.2rem;
+    }
+
+    .benefits-content {
+        font-size: 1.7rem;
+    }
+
+    .footer{
+        height: 300vh;
+    }
+
+}
+
+
+@media screen and (max-width: 400px) {
+
+    .section{
+        height: 180vh;
+    }
+
+    .menu-toggle {
+        margin-left: 20%;
+    }
+
+    .nav-left img{
+        width: 90%;
+        margin-left: -32px;
+    }
+
+    .nav-right{
+        width: 33vw;
+    }
+
+    .nav-right .btn{
+        width: 32vw;
+        font-size: 1rem;
+    }
+
+    .left-section-heading {
+        font-size: 1.8rem;
+        width: 105%;
+    }
+ 
+    .left-section{
+        height: 65vh;
+    }
+
+    .number1, .number2 {
+        font-size: 2rem;
+    }
+
+    .companies-span,.shipped-span {
+        font-size: 1rem;
+    }
+
+    #about {
+        width: 50vw;
+    }
+
+    .gray-desc, .black-desc {
+        font-size: 1.3rem;
+    }
+
+    .customer, .percent, .exp-num {
+        font-size: 1.4rem;
+    }
+
+
+    .happy-customer,.exp,.customer-desc{
+        font-size: 1rem;
+    }
+
+
+    .btn{
+        font-size: 0.95rem;
+        padding: 15px;
+    }
+
+    .services-desc-with-imgs img {
+        width: 75%;
+    }
+
+    .service-block-1{
+        width: 75%;
+    }
+
+    .resp2-700px .service-block-1 {
+        width: 73%;
+    }
+
+    .services {
+        height: 665vh;
+    }
+
+    .faq-left-section {
+        padding: 50px;
+    }
+
+    .faq-container {
+        margin-top: 5vh;
+        margin-left: 25px;
+    }
+
+    .faq-title {
+        font: 1.1em sans-serif;
+    }
+
+    .benefits-desc {
+        width: 48%;
+    }
+
+    .TESTIMONIAL{
+        height: 165vh;
+    }
+
+    .test-name{
+        margin-right: 10vw;
+    }
+
+    .benefits{
+        height: 100vh;
+    }
+
+    .benefits-content{
+        height: 22vh;
+    }
+
+    .benefits-btn {
+        width: 35vw;
+    }
+
+    .footer {
+        height: 305vh;
+    }
+
+}
+
+@media screen and (max-width: 375px) {
+
+    .menu-toggle {
+        margin-left: 12%;
+    }
+
+    .nav-right{
+        width: 36vw;
+    }
+
+    .nav-right .btn{
+        width: 35vw;
+    }
+
+
+    .section {
+        height: 190vh;
+    }
+
+    #about {
+        width: 45vw;
+        height: 175vh;
+    }
+
+    .about-left-section {
+        /* margin-top: 5vh; */
+        margin: -75px;
+    }
+
+    .about-right-section {
+        padding-top: 40px;
+        /* padding-left: -20px; */
+    }
+
+    .about-numbers {
+        width: 55vw;
+        margin-top: 5vh;
+        margin-left: -7vw;
+    }
+
+    .about-desc {
+        margin: -45px;
+        margin-top: 5vh;
+    }
+
+    .customer, .percent, .exp-num {
+        font-size: 1.2rem;
+    }
+
+    .happy-customer, .exp, .customer-desc {
+        font-size: 0.95rem;
+    }
+
+    .service-number {
+        padding: 28px;
+        font-size: 3rem;
+    }
+
+    .img-service-name {
+        font-size: 1.4rem;
+    }
+
+    .services-span {
+        padding-left: 35px;
+    }
+    .services-heading,.service-desc {
+        /* font-size: 2rem; */
+        padding-left: 35px;
+    }
+
+    .img-service-desc,
+    .service-learn-more  {
+        font-size: 1.1rem;
+    }
+
+    .achieve-left-section {
+        height: 55vh;
+        margin-left: -20px;
+    }
+
+
+    .achieve-desc {
+        width: 53vw;
+    }
+
+
+    .TESTIMONIAL{
+        padding: 40px;
+    }
+
+    .test-second-section {
+        font-size: 1rem;
+    }
+
+    .faq-description {
+        font: 1.1em sans-serif;
+        width: 90%;
+    }
+
+    .benefits{
+        height: 115vh;
+    }
+
+    .benefits-desc {
+        margin-top: 10vh;
+    }
+
+
+    .footer-items{
+        margin-left: 15vw;
+    }
+
+    .footer-span{
+        font-size: 1.2rem;
+    }
+
+    .footer-links ul li {
+        font-size: 0.9rem;
+    }
+
+    .news-heading {
+        /* color: white; */
+        font: 1.4rem sans-serif;
+
+    }
+
+
+    .news-desc {
+        font: 1.1em sans-serif;
+    }
+
+    .email-container input {
+        font-size: 13px;
+    }
+
+    .email-container button {
+        /* width: 90%; */
+        font-size: 16px;
+    }
+
+    .newslatter-desc {
+        font: 1.1em sans-serif
+    }
+}
+
+
+@media screen and (max-width: 355px) {
+
+    .menu-toggle {
+        margin-left: 8%;
+    }
+
+    .nav-right{
+        width: 38vw;
+    }
+
+    .nav-right .btn{
+        width: 38vw;
+    }
+
+
+    .left-section{
+        height: 70vh;
+    }
+
+    .left-section-heading {
+        font-size: 1.8rem;
+        width: 110%;
+    }
+
+    .benefits {
+        margin: 40px;
+    }
+
+    .benefits-desc {
+        width: 56%;
+        margin-left: 13vw;
+    }
+
+    .achievements {
+        height: 190vh;
+    }
+
+    .achieve-left-section {
+        height: 60vh;
+    }
+
+    .TESTIMONIAL {
+        height: 180vh;
+    }
+
+    .testimonials1,.testimonials2{
+        padding-left: 20px!important;
+        padding: 44px;
+    }
+
+    .footer-logo-img img{
+        width: 120%;
+    }
+
+    .social-media-icon img{
+        width: 120%;
+    }
+}
